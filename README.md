@@ -1,6 +1,6 @@
 # Langchain Demo with LLAMA2 and Google GEMMA API
 
-A simple API server built with FastAPI that integrates multiple LLMs using Langchain.  
+An API server built with FastAPI that integrates multiple LLMs using Langchain.  
 Includes a Streamlit frontend to generate essays and poems using Google GEMMA and LLAMA2 models.
 
 ---
