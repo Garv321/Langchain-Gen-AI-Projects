@@ -136,7 +136,7 @@ MIT License
 
 ## Contact
 
-For questions or suggestions, please open an issue or contact [your-email@example.com].
+For questions or suggestions, please open an issue or contact [garvsharma835@gmail.com].
 
 ---
 
